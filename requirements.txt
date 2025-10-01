@@ -1,0 +1,6 @@
+opcua
+tensorflow
+pillow
+opencv-python
+matplotlib
+seaborN
